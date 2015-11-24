@@ -16,7 +16,7 @@ public class MyFirstJavaClass {
 	
 	
 	public void calculate(double var1, double var2, String operator) {
-		double result=0;
+		double result=77;
 
 		switch (operator) {
 		case "+":
